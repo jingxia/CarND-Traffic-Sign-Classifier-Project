@@ -24,9 +24,13 @@ The IPython [IPython Notebook](https://github.com/jingxia/CarND-Traffic-Sign-Cla
 
 ### Dataset Summary
 I calculate the stats of the dataset as follow:
+
 Number of training examples = 34799
+
 Number of testing examples = 12630
+
 Image data shape = (32, 32)
+
 Number of classes = 43
 
 
