@@ -1,4 +1,4 @@
-#**Traffic Sign Recognition** 
+# **Traffic Sign Recognition** 
 
 This repository contains an an IPython Notebook with the code for Traffic Sign Recognition Model, an html file displaying the results, and a write-up (this file).
 
