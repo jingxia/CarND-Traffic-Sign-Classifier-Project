@@ -100,4 +100,4 @@ Here are 10 German traffic signs that I found on the web:
 
 ![alt text](./img/pred.png) 
 
-Model is very certain for most of the results, except sign 4. It's correctely classified as stop sign, but certainty is only 76%. 
+Model is very certain for most of the results, except sign 4. It's correctely classified as stop sign, but certainty is only 76%. This may be because that, first, when I cut the immage, I put it full in the picture that it's hard for the model to pick the shape of the sign. Also, it has some 45 degree lines that also roughly matches with bumpy sign or traffict signal, which also have contents or words inside of the sign, so that the model is confused a bit. However, still with 76% certainty the model picks this sign, and other options only 5% or less probability. 
